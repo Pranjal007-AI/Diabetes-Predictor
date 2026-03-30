@@ -4,7 +4,12 @@ A machine learning-powered web application built with **Streamlit** that predict
 
 ---
 
+## Live Link : https://diabetes-predictor-kvahbgzyuvzphchmnzdm5u.streamlit.app/
+
+
 ## 🖥️ Live Demo
+
+
 
 > Run locally using the steps below ↓
 
