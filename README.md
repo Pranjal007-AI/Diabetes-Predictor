@@ -35,7 +35,7 @@ A machine learning-powered web application built with **Streamlit** that predict
 
 ---
 
-## 🧬 Input Parameters
+## 🧬 Input Parameters 
 
 | Parameter | Description |
 |---|---|
